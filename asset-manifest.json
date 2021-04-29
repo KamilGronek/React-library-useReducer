@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-library-useReducer/static/css/main.2963df99.chunk.css",
+    "main.js": "/React-library-useReducer/static/js/main.4e3e9494.chunk.js",
+    "main.js.map": "/React-library-useReducer/static/js/main.4e3e9494.chunk.js.map",
+    "runtime-main.js": "/React-library-useReducer/static/js/runtime-main.97274b17.js",
+    "runtime-main.js.map": "/React-library-useReducer/static/js/runtime-main.97274b17.js.map",
+    "static/js/2.0a372eee.chunk.js": "/React-library-useReducer/static/js/2.0a372eee.chunk.js",
+    "static/js/2.0a372eee.chunk.js.map": "/React-library-useReducer/static/js/2.0a372eee.chunk.js.map",
+    "static/js/3.514dd0e8.chunk.js": "/React-library-useReducer/static/js/3.514dd0e8.chunk.js",
+    "static/js/3.514dd0e8.chunk.js.map": "/React-library-useReducer/static/js/3.514dd0e8.chunk.js.map",
+    "index.html": "/React-library-useReducer/index.html",
+    "static/css/main.2963df99.chunk.css.map": "/React-library-useReducer/static/css/main.2963df99.chunk.css.map",
+    "static/js/2.0a372eee.chunk.js.LICENSE.txt": "/React-library-useReducer/static/js/2.0a372eee.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.97274b17.js",
+    "static/js/2.0a372eee.chunk.js",
+    "static/css/main.2963df99.chunk.css",
+    "static/js/main.4e3e9494.chunk.js"
+  ]
+}
