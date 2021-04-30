@@ -13,6 +13,10 @@ function AppProvider({children}){
       .then(response =>{
         dispatch({type: 'FETCH_SUCCESS', payload:response.data.books})
       })
+      .catch(error => {
+        dispatch({type: 'FETCH_ERROR'})
+        console.log(error)
+      })
     }, [])
 
     const addBookTobBorrowedBook = state.library.filter(bookTitle =>  bookTitle.title === state.inputValue);

@@ -16,7 +16,7 @@ const Navigation = () => {
           </NavLink>
         </li>
         <li>
-          <NavLink to="/returnedBooks">Given books <em>({context.resultsReturnedBooks})</em></NavLink>
+          <NavLink to="/returnedBooks">Returned books <em>({context.resultsReturnedBooks})</em></NavLink>
         </li>
       </ul>
     </nav>
