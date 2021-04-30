@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/React-library-useReducer/static/css/main.2963df99.chunk.css",
-    "main.js": "/React-library-useReducer/static/js/main.4e3e9494.chunk.js",
-    "main.js.map": "/React-library-useReducer/static/js/main.4e3e9494.chunk.js.map",
+    "main.js": "/React-library-useReducer/static/js/main.420b2ab7.chunk.js",
+    "main.js.map": "/React-library-useReducer/static/js/main.420b2ab7.chunk.js.map",
     "runtime-main.js": "/React-library-useReducer/static/js/runtime-main.97274b17.js",
     "runtime-main.js.map": "/React-library-useReducer/static/js/runtime-main.97274b17.js.map",
     "static/js/2.0a372eee.chunk.js": "/React-library-useReducer/static/js/2.0a372eee.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.97274b17.js",
     "static/js/2.0a372eee.chunk.js",
     "static/css/main.2963df99.chunk.css",
-    "static/js/main.4e3e9494.chunk.js"
+    "static/js/main.420b2ab7.chunk.js"
   ]
 }
